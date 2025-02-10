@@ -1,0 +1,379 @@
+{
+    "selectedItems": [
+        {
+            "id": "1",
+            "name": "Selected T-shirt summer vibes",
+            "aftrPrice": 119.99,
+            "brand": "levies",
+            "imgs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-2.png"
+                }
+            ],
+            "thumbs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-2.png"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": "Selected T-shirt summer vibes",
+            "bfrPrice": 78.99,
+            "aftrPrice": 129.99,
+            "sale": "25",
+            "brand": "massimo dutie",
+            "imgs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-4.png"
+                }
+            ],
+            "thumbs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-4.png"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "name": "Selected T-shirt summer vibes",
+            "bfrPrice": 74.99,
+            "aftrPrice": 110.99,
+            "brand": "american eagle",
+            "imgs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                }
+            ],
+            "thumbs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "name": "Selected T-shirt summer vibes",
+            "aftrPrice": 159.99,
+            "brand": "levies",
+            "imgs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-2.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-4.png"
+                }
+            ],
+            "thumbs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-2.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-4.png"
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "name": "Selected T-shirt summer vibes",
+            "bfrPrice": 35.99,
+            "aftrPrice": 70.99,
+            "brand": "massimo dutie",
+            "imgs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-4.png"
+                }
+            ],
+            "thumbs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-4.png"
+                }
+            ]
+        }
+    ],
+    "defaultSale": [
+        {
+            "id": "1",
+            "text": "New arrivals are now in!",
+            "action": "Show collection",
+            "img": "http://localhost:5000/default-blk-1.jpg"
+        },
+        {
+            "id": "2",
+            "text": "Basic t-shirts $29,99",
+            "action": "More details",
+            "img": "http://localhost:5000/default-blk-2.jpg"
+        },
+        {
+            "id": "3",
+            "text": "Sale for this summer",
+            "action": "VIEW ALL",
+            "img": "http://localhost:5000/default-blk-3.jpg"
+        }
+    ],
+    "newArrivals": [
+        {
+            "id": "2",
+            "name": "newArrivals T-shirt summer vibes",
+            "bfrPrice": 78.99,
+            "aftrPrice": 129.99,
+            "sale": "25",
+            "brand": "massimo dutie",
+            "imgs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-4.png"
+                }
+            ],
+            "thumbs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-4.png"
+                }
+            ]
+        }
+    ],
+    "basic": [
+        {
+            "id": "3",
+            "name": "basic T-shirt summer vibes",
+            "bfrPrice": 74.99,
+            "aftrPrice": 110.99,
+            "brand": "american eagle",
+            "imgs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                }
+            ],
+            "thumbs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                }
+            ]
+        }
+    ],
+    "sale": [
+        {
+            "id": "4",
+            "name": "sale T-shirt summer vibes",
+            "aftrPrice": 159.99,
+            "brand": "levies",
+            "imgs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-2.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-4.png"
+                }
+            ],
+            "thumbs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-2.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-4.png"
+                }
+            ]
+        }
+    ],
+    "todayItems": [
+        {
+            "id": "1",
+            "name": "Today T-shirt summer vibes",
+            "aftrPrice": 119.99,
+            "brand": "levies",
+            "imgs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-2.png"
+                }
+            ],
+            "thumbs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-2.png"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": "Today T-shirt summer vibes",
+            "bfrPrice": 78.99,
+            "aftrPrice": 129.99,
+            "brand": "massimo dutie",
+            "imgs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-4.png"
+                }
+            ],
+            "thumbs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-4.png"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "name": "Today T-shirt summer vibes",
+            "bfrPrice": 74.99,
+            "aftrPrice": 110.99,
+            "brand": "american eagle",
+            "imgs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                }
+            ],
+            "thumbs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "name": "Today T-shirt summer vibes",
+            "aftrPrice": 159.99,
+            "brand": "levies",
+            "imgs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-2.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-4.png"
+                }
+            ],
+            "thumbs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-2.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-4.png"
+                }
+            ]
+        }
+    ],
+    "whyUs": [
+        {
+            "id": "1",
+            "icon": "http://localhost:5000/Free-Shipping.png",
+            "title": "Free Shipping",
+            "desc": "All purchases over $399 are eligible for free shipping via UPS Pack and Ship."
+        },
+        {
+            "id": "2",
+            "icon": "http://localhost:5000/Payments.png",
+            "title": "Easy Payments",
+            "desc": "All payments are processed instantly over a secure payment protocol."
+        },
+        {
+            "id": "3",
+            "icon": "http://localhost:5000/Money.png",
+            "title": "Money-Back Guarantee",
+            "desc": "If an item arrived damaged or you've changed your mind, you can send it back for a full refund."
+        },
+        {
+            "id": "4",
+            "icon": "http://localhost:5000/quality.png",
+            "title": "Finest Quality",
+            "desc": "Designed to last, each of our products has been crafted with the finest materials."
+        }
+    ]
+}

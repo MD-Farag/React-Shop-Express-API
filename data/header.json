@@ -1,0 +1,1145 @@
+{
+    "men": [
+        {
+            "id": "1",
+            "category": "men",
+            "name": "T-shirt summer vibes",
+            "aftrPrice": 119.99,
+            "brand": "levies",
+            "imgs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-2.png"
+                }
+            ],
+            "thumbs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-2.png"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "category": "women",
+            "name": "T-shirt summer vibes",
+            "bfrPrice": 78.99,
+            "aftrPrice": 129.99,
+            "sale": "25",
+            "brand": "massimo dutie",
+            "imgs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-4.png"
+                }
+            ],
+            "thumbs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-4.png"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "category": "kids",
+            "name": "T-shirt summer vibes",
+            "bfrPrice": 74.99,
+            "aftrPrice": 110.99,
+            "brand": "american eagle",
+            "imgs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                }
+            ],
+            "thumbs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                }
+            ]
+        },
+        {
+            "id": "01",
+            "category": "men",
+            "name": "T-shirt summer vibes",
+            "aftrPrice": 119.99,
+            "brand": "levies",
+            "imgs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-2.png"
+                }
+            ],
+            "thumbs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-2.png"
+                }
+            ]
+        },
+        {
+            "id": "02",
+            "category": "women",
+            "name": "T-shirt summer vibes",
+            "bfrPrice": 78.99,
+            "aftrPrice": 129.99,
+            "sale": "25",
+            "brand": "massimo dutie",
+            "imgs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-4.png"
+                }
+            ],
+            "thumbs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-4.png"
+                }
+            ]
+        },
+        {
+            "id": "03",
+            "category": "kids",
+            "name": "T-shirt summer vibes",
+            "bfrPrice": 74.99,
+            "aftrPrice": 110.99,
+            "brand": "american eagle",
+            "imgs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                }
+            ],
+            "thumbs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                }
+            ]
+        },
+        {
+            "id": "001",
+            "category": "men",
+            "name": "T-shirt summer vibes",
+            "aftrPrice": 119.99,
+            "brand": "levies",
+            "imgs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-2.png"
+                }
+            ],
+            "thumbs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-2.png"
+                }
+            ]
+        },
+        {
+            "id": "002",
+            "category": "women",
+            "name": "T-shirt summer vibes",
+            "bfrPrice": 78.99,
+            "aftrPrice": 129.99,
+            "sale": "25",
+            "brand": "massimo dutie",
+            "imgs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-4.png"
+                }
+            ],
+            "thumbs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-4.png"
+                }
+            ]
+        },
+        {
+            "id": "003",
+            "category": "kids",
+            "name": "T-shirt summer vibes",
+            "bfrPrice": 74.99,
+            "aftrPrice": 110.99,
+            "brand": "american eagle",
+            "imgs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                }
+            ],
+            "thumbs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                }
+            ]
+        }
+    ],
+    "women": [
+        {
+            "id": "1",
+            "category": "men",
+            "name": "T-shirt summer vibes",
+            "aftrPrice": 119.99,
+            "brand": "levies",
+            "imgs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-2.png"
+                }
+            ],
+            "thumbs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-2.png"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "category": "women",
+            "name": "T-shirt summer vibes",
+            "bfrPrice": 78.99,
+            "aftrPrice": 129.99,
+            "sale": "25",
+            "brand": "massimo dutie",
+            "imgs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-4.png"
+                }
+            ],
+            "thumbs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-4.png"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "category": "kids",
+            "name": "T-shirt summer vibes",
+            "bfrPrice": 74.99,
+            "aftrPrice": 110.99,
+            "brand": "american eagle",
+            "imgs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                }
+            ],
+            "thumbs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                }
+            ]
+        },
+        {
+            "id": "01",
+            "category": "men",
+            "name": "T-shirt summer vibes",
+            "aftrPrice": 119.99,
+            "brand": "levies",
+            "imgs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-2.png"
+                }
+            ],
+            "thumbs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-2.png"
+                }
+            ]
+        },
+        {
+            "id": "02",
+            "category": "women",
+            "name": "T-shirt summer vibes",
+            "bfrPrice": 78.99,
+            "aftrPrice": 129.99,
+            "sale": "25",
+            "brand": "massimo dutie",
+            "imgs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-4.png"
+                }
+            ],
+            "thumbs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-4.png"
+                }
+            ]
+        },
+        {
+            "id": "03",
+            "category": "kids",
+            "name": "T-shirt summer vibes",
+            "bfrPrice": 74.99,
+            "aftrPrice": 110.99,
+            "brand": "american eagle",
+            "imgs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                }
+            ],
+            "thumbs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                }
+            ]
+        },
+        {
+            "id": "001",
+            "category": "men",
+            "name": "T-shirt summer vibes",
+            "aftrPrice": 119.99,
+            "brand": "levies",
+            "imgs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-2.png"
+                }
+            ],
+            "thumbs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-2.png"
+                }
+            ]
+        },
+        {
+            "id": "002",
+            "category": "women",
+            "name": "T-shirt summer vibes",
+            "bfrPrice": 78.99,
+            "aftrPrice": 129.99,
+            "sale": "25",
+            "brand": "massimo dutie",
+            "imgs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-4.png"
+                }
+            ],
+            "thumbs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-4.png"
+                }
+            ]
+        },
+        {
+            "id": "003",
+            "category": "kids",
+            "name": "T-shirt summer vibes",
+            "bfrPrice": 74.99,
+            "aftrPrice": 110.99,
+            "brand": "american eagle",
+            "imgs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                }
+            ],
+            "thumbs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                }
+            ]
+        }
+    ],
+    "kids": [
+        {
+            "id": "1",
+            "category": "men",
+            "name": "T-shirt summer vibes",
+            "aftrPrice": 119.99,
+            "brand": "levies",
+            "imgs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-2.png"
+                }
+            ],
+            "thumbs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-2.png"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "category": "women",
+            "name": "T-shirt summer vibes",
+            "bfrPrice": 78.99,
+            "aftrPrice": 129.99,
+            "sale": "25",
+            "brand": "massimo dutie",
+            "imgs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-4.png"
+                }
+            ],
+            "thumbs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-4.png"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "category": "kids",
+            "name": "T-shirt summer vibes",
+            "bfrPrice": 74.99,
+            "aftrPrice": 110.99,
+            "brand": "american eagle",
+            "imgs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                }
+            ],
+            "thumbs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                }
+            ]
+        },
+        {
+            "id": "01",
+            "category": "men",
+            "name": "T-shirt summer vibes",
+            "aftrPrice": 119.99,
+            "brand": "levies",
+            "imgs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-2.png"
+                }
+            ],
+            "thumbs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-2.png"
+                }
+            ]
+        },
+        {
+            "id": "02",
+            "category": "women",
+            "name": "T-shirt summer vibes",
+            "bfrPrice": 78.99,
+            "aftrPrice": 129.99,
+            "sale": "25",
+            "brand": "massimo dutie",
+            "imgs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-4.png"
+                }
+            ],
+            "thumbs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-4.png"
+                }
+            ]
+        },
+        {
+            "id": "03",
+            "category": "kids",
+            "name": "T-shirt summer vibes",
+            "bfrPrice": 74.99,
+            "aftrPrice": 110.99,
+            "brand": "american eagle",
+            "imgs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                }
+            ],
+            "thumbs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                }
+            ]
+        },
+        {
+            "id": "001",
+            "category": "men",
+            "name": "T-shirt summer vibes",
+            "aftrPrice": 119.99,
+            "brand": "levies",
+            "imgs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-2.png"
+                }
+            ],
+            "thumbs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-2.png"
+                }
+            ]
+        },
+        {
+            "id": "002",
+            "category": "women",
+            "name": "T-shirt summer vibes",
+            "bfrPrice": 78.99,
+            "aftrPrice": 129.99,
+            "sale": "25",
+            "brand": "massimo dutie",
+            "imgs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-4.png"
+                }
+            ],
+            "thumbs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-4.png"
+                }
+            ]
+        },
+        {
+            "id": "003",
+            "category": "kids",
+            "name": "T-shirt summer vibes",
+            "bfrPrice": 74.99,
+            "aftrPrice": 110.99,
+            "brand": "american eagle",
+            "imgs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                }
+            ],
+            "thumbs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                }
+            ]
+        }
+    ],
+    "slides": [
+        {
+            "id": "1",
+            "category": "summerCollection",
+            "imageLg": "http://localhost:5000/slider.png",
+            "imageSm": "http://localhost:5000/mbl-slide.jpg",
+            "shopIcon": "http://localhost:5000/shop-now-arrow.png",
+            "title": "Sale of the summer collection",
+            "callToAction": "Shop Now"
+        },
+        {
+            "id": "2",
+            "category": "winterClearance",
+            "imageLg": "http://localhost:5000/slider.png",
+            "imageSm": "http://localhost:5000/mbl-slide.jpg",
+            "shopIcon": "http://localhost:5000/shop-now-arrow.png",
+            "title": "Second slide slide number",
+            "callToAction": "Shop Now"
+        }
+    ],
+    "summerCollection": [
+        {
+            "id": "1",
+            "category": "summerCollection",
+            "name": "T-shirt summer vibes",
+            "aftrPrice": 119.99,
+            "brand": "levies",
+            "imgs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-2.png"
+                }
+            ],
+            "thumbs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-2.png"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "category": "summerCollection",
+            "name": "T-shirt summer vibes",
+            "bfrPrice": 78.99,
+            "aftrPrice": 129.99,
+            "sale": "25",
+            "brand": "massimo dutie",
+            "imgs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-4.png"
+                }
+            ],
+            "thumbs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-4.png"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "category": "summerCollection",
+            "name": "T-shirt summer vibes",
+            "bfrPrice": 74.99,
+            "aftrPrice": 110.99,
+            "brand": "american eagle",
+            "imgs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                }
+            ],
+            "thumbs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "category": "summerCollection",
+            "name": "T-shirt summer vibes",
+            "aftrPrice": 159.99,
+            "brand": "levies",
+            "imgs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-2.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-4.png"
+                }
+            ],
+            "thumbs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-2.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-4.png"
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "category": "summerCollection",
+            "name": "T-shirt summer vibes",
+            "bfrPrice": 35.99,
+            "aftrPrice": 70.99,
+            "brand": "massimo dutie",
+            "imgs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-4.png"
+                }
+            ],
+            "thumbs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-4.png"
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "category": "summerCollection",
+            "name": "T-shirt summer vibes",
+            "bfrPrice": 19.99,
+            "aftrPrice": 29.99,
+            "brand": "levies",
+            "imgs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-2.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                }
+            ],
+            "thumbs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-2.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                }
+            ]
+        }
+    ],
+    "winterClearance": [
+        {
+            "id": "1",
+            "category": "winterClearance",
+            "name": "T-shirt summer vibes",
+            "aftrPrice": 119.99,
+            "brand": "levies",
+            "imgs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-2.png"
+                }
+            ],
+            "thumbs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-2.png"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "category": "winterClearance",
+            "name": "T-shirt summer vibes",
+            "bfrPrice": 78.99,
+            "aftrPrice": 129.99,
+            "sale": "25",
+            "brand": "massimo dutie",
+            "imgs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-4.png"
+                }
+            ],
+            "thumbs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-4.png"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "category": "winterClearance",
+            "name": "T-shirt summer vibes",
+            "bfrPrice": 74.99,
+            "aftrPrice": 110.99,
+            "brand": "american eagle",
+            "imgs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                }
+            ],
+            "thumbs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "category": "winterClearance",
+            "name": "T-shirt summer vibes",
+            "aftrPrice": 159.99,
+            "brand": "levies",
+            "imgs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-2.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-4.png"
+                }
+            ],
+            "thumbs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-2.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-4.png"
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "category": "winterClearance",
+            "name": "T-shirt summer vibes",
+            "bfrPrice": 35.99,
+            "aftrPrice": 70.99,
+            "brand": "massimo dutie",
+            "imgs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-4.png"
+                }
+            ],
+            "thumbs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-1.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-4.png"
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "category": "winterClearance",
+            "name": "T-shirt summer vibes",
+            "bfrPrice": 19.99,
+            "aftrPrice": 29.99,
+            "brand": "levies",
+            "imgs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-2.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                }
+            ],
+            "thumbs": [
+                {
+                    "id": 11,
+                    "src": "http://localhost:5000/selected-product-2.png"
+                },
+                {
+                    "id": 12,
+                    "src": "http://localhost:5000/selected-product-3.png"
+                }
+            ]
+        }
+    ],
+    "headerFeatures": [
+        {
+            "id": "1",
+            "category": "headerFeatures",
+            "icon": "http://localhost:5000/Group208.png",
+            "title": "Free Shipping",
+            "desc": "On purchases over $199"
+        },
+        {
+            "id": "2",
+            "category": "headerFeatures",
+            "icon": "http://localhost:5000/Group209.png",
+            "title": "99% satisfied customers",
+            "desc": "Our clients opinions speak for themselves"
+        },
+        {
+            "id": "3",
+            "category": "headerFeatures",
+            "icon": "http://localhost:5000/Group210.png",
+            "title": "Originality Guaranteed",
+            "desc": "30 days warranty for each product from our store"
+        }
+    ]
+}
