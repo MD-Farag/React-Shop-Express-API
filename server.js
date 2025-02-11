@@ -13,7 +13,7 @@ const PORT = process.env.PORT || 5000;
 // Body parser
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
-app.use(cors({ origin: "https://react-shop-frontend.onrender.com" }));
+app.use(cors({ origin: "http://localhost:3000" }));
 
 // Setup static folder
 app.use(express.static("assets"));
