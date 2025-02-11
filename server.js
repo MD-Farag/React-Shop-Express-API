@@ -1,10 +1,10 @@
 import express from "express";
+import cors from "cors";
 import products from "./routes/products.js";
 import header from "./routes/header.js";
 import homeProducts from "./routes/homeProducts.js";
 
 const app = express();
-const cors = require("cors");
 
 
 // Default to process.env.PORT or 5000 for local development
