@@ -8,21 +8,21 @@
             "imgs": [
                 {
                     "id": 11,
-                    "src": "http://localhost:5000/selected-product-1.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-1.png"
                 },
                 {
                     "id": 12,
-                    "src": "http://localhost:5000/selected-product-2.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-2.png"
                 }
             ],
             "thumbs": [
                 {
                     "id": 11,
-                    "src": "http://localhost:5000/selected-product-1.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-1.png"
                 },
                 {
                     "id": 12,
-                    "src": "http://localhost:5000/selected-product-2.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-2.png"
                 }
             ]
         },
@@ -36,21 +36,21 @@
             "imgs": [
                 {
                     "id": 11,
-                    "src": "http://localhost:5000/selected-product-3.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-3.png"
                 },
                 {
                     "id": 12,
-                    "src": "http://localhost:5000/selected-product-4.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-4.png"
                 }
             ],
             "thumbs": [
                 {
                     "id": 11,
-                    "src": "http://localhost:5000/selected-product-3.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-3.png"
                 },
                 {
                     "id": 12,
-                    "src": "http://localhost:5000/selected-product-4.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-4.png"
                 }
             ]
         },
@@ -63,21 +63,21 @@
             "imgs": [
                 {
                     "id": 11,
-                    "src": "http://localhost:5000/selected-product-1.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-1.png"
                 },
                 {
                     "id": 12,
-                    "src": "http://localhost:5000/selected-product-3.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-3.png"
                 }
             ],
             "thumbs": [
                 {
                     "id": 11,
-                    "src": "http://localhost:5000/selected-product-1.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-1.png"
                 },
                 {
                     "id": 12,
-                    "src": "http://localhost:5000/selected-product-3.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-3.png"
                 }
             ]
         },
@@ -89,21 +89,21 @@
             "imgs": [
                 {
                     "id": 11,
-                    "src": "http://localhost:5000/selected-product-2.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-2.png"
                 },
                 {
                     "id": 12,
-                    "src": "http://localhost:5000/selected-product-4.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-4.png"
                 }
             ],
             "thumbs": [
                 {
                     "id": 11,
-                    "src": "http://localhost:5000/selected-product-2.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-2.png"
                 },
                 {
                     "id": 12,
-                    "src": "http://localhost:5000/selected-product-4.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-4.png"
                 }
             ]
         },
@@ -116,21 +116,21 @@
             "imgs": [
                 {
                     "id": 11,
-                    "src": "http://localhost:5000/selected-product-1.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-1.png"
                 },
                 {
                     "id": 12,
-                    "src": "http://localhost:5000/selected-product-4.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-4.png"
                 }
             ],
             "thumbs": [
                 {
                     "id": 11,
-                    "src": "http://localhost:5000/selected-product-1.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-1.png"
                 },
                 {
                     "id": 12,
-                    "src": "http://localhost:5000/selected-product-4.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-4.png"
                 }
             ]
         },
@@ -143,21 +143,21 @@
             "imgs": [
                 {
                     "id": 11,
-                    "src": "http://localhost:5000/selected-product-2.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-2.png"
                 },
                 {
                     "id": 12,
-                    "src": "http://localhost:5000/selected-product-3.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-3.png"
                 }
             ],
             "thumbs": [
                 {
                     "id": 11,
-                    "src": "http://localhost:5000/selected-product-2.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-2.png"
                 },
                 {
                     "id": 12,
-                    "src": "http://localhost:5000/selected-product-3.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-3.png"
                 }
             ]
         }

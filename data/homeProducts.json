@@ -8,21 +8,21 @@
             "imgs": [
                 {
                     "id": 11,
-                    "src": "http://localhost:5000/selected-product-1.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-1.png"
                 },
                 {
                     "id": 12,
-                    "src": "http://localhost:5000/selected-product-2.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-2.png"
                 }
             ],
             "thumbs": [
                 {
                     "id": 11,
-                    "src": "http://localhost:5000/selected-product-1.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-1.png"
                 },
                 {
                     "id": 12,
-                    "src": "http://localhost:5000/selected-product-2.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-2.png"
                 }
             ]
         },
@@ -36,21 +36,21 @@
             "imgs": [
                 {
                     "id": 11,
-                    "src": "http://localhost:5000/selected-product-3.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-3.png"
                 },
                 {
                     "id": 12,
-                    "src": "http://localhost:5000/selected-product-4.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-4.png"
                 }
             ],
             "thumbs": [
                 {
                     "id": 11,
-                    "src": "http://localhost:5000/selected-product-3.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-3.png"
                 },
                 {
                     "id": 12,
-                    "src": "http://localhost:5000/selected-product-4.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-4.png"
                 }
             ]
         },
@@ -63,21 +63,21 @@
             "imgs": [
                 {
                     "id": 11,
-                    "src": "http://localhost:5000/selected-product-1.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-1.png"
                 },
                 {
                     "id": 12,
-                    "src": "http://localhost:5000/selected-product-3.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-3.png"
                 }
             ],
             "thumbs": [
                 {
                     "id": 11,
-                    "src": "http://localhost:5000/selected-product-1.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-1.png"
                 },
                 {
                     "id": 12,
-                    "src": "http://localhost:5000/selected-product-3.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-3.png"
                 }
             ]
         },
@@ -89,21 +89,21 @@
             "imgs": [
                 {
                     "id": 11,
-                    "src": "http://localhost:5000/selected-product-2.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-2.png"
                 },
                 {
                     "id": 12,
-                    "src": "http://localhost:5000/selected-product-4.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-4.png"
                 }
             ],
             "thumbs": [
                 {
                     "id": 11,
-                    "src": "http://localhost:5000/selected-product-2.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-2.png"
                 },
                 {
                     "id": 12,
-                    "src": "http://localhost:5000/selected-product-4.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-4.png"
                 }
             ]
         },
@@ -116,21 +116,21 @@
             "imgs": [
                 {
                     "id": 11,
-                    "src": "http://localhost:5000/selected-product-1.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-1.png"
                 },
                 {
                     "id": 12,
-                    "src": "http://localhost:5000/selected-product-4.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-4.png"
                 }
             ],
             "thumbs": [
                 {
                     "id": 11,
-                    "src": "http://localhost:5000/selected-product-1.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-1.png"
                 },
                 {
                     "id": 12,
-                    "src": "http://localhost:5000/selected-product-4.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-4.png"
                 }
             ]
         }
@@ -140,19 +140,19 @@
             "id": "1",
             "text": "New arrivals are now in!",
             "action": "Show collection",
-            "img": "http://localhost:5000/default-blk-1.jpg"
+            "img": "https://react-shop-express-api.onrender.com/default-blk-1.jpg"
         },
         {
             "id": "2",
             "text": "Basic t-shirts $29,99",
             "action": "More details",
-            "img": "http://localhost:5000/default-blk-2.jpg"
+            "img": "https://react-shop-express-api.onrender.com/default-blk-2.jpg"
         },
         {
             "id": "3",
             "text": "Sale for this summer",
             "action": "VIEW ALL",
-            "img": "http://localhost:5000/default-blk-3.jpg"
+            "img": "https://react-shop-express-api.onrender.com/default-blk-3.jpg"
         }
     ],
     "newArrivals": [
@@ -166,21 +166,21 @@
             "imgs": [
                 {
                     "id": 11,
-                    "src": "http://localhost:5000/selected-product-3.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-3.png"
                 },
                 {
                     "id": 12,
-                    "src": "http://localhost:5000/selected-product-4.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-4.png"
                 }
             ],
             "thumbs": [
                 {
                     "id": 11,
-                    "src": "http://localhost:5000/selected-product-3.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-3.png"
                 },
                 {
                     "id": 12,
-                    "src": "http://localhost:5000/selected-product-4.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-4.png"
                 }
             ]
         }
@@ -195,21 +195,21 @@
             "imgs": [
                 {
                     "id": 11,
-                    "src": "http://localhost:5000/selected-product-1.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-1.png"
                 },
                 {
                     "id": 12,
-                    "src": "http://localhost:5000/selected-product-3.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-3.png"
                 }
             ],
             "thumbs": [
                 {
                     "id": 11,
-                    "src": "http://localhost:5000/selected-product-1.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-1.png"
                 },
                 {
                     "id": 12,
-                    "src": "http://localhost:5000/selected-product-3.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-3.png"
                 }
             ]
         }
@@ -223,21 +223,21 @@
             "imgs": [
                 {
                     "id": 11,
-                    "src": "http://localhost:5000/selected-product-2.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-2.png"
                 },
                 {
                     "id": 12,
-                    "src": "http://localhost:5000/selected-product-4.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-4.png"
                 }
             ],
             "thumbs": [
                 {
                     "id": 11,
-                    "src": "http://localhost:5000/selected-product-2.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-2.png"
                 },
                 {
                     "id": 12,
-                    "src": "http://localhost:5000/selected-product-4.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-4.png"
                 }
             ]
         }
@@ -251,21 +251,21 @@
             "imgs": [
                 {
                     "id": 11,
-                    "src": "http://localhost:5000/selected-product-1.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-1.png"
                 },
                 {
                     "id": 12,
-                    "src": "http://localhost:5000/selected-product-2.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-2.png"
                 }
             ],
             "thumbs": [
                 {
                     "id": 11,
-                    "src": "http://localhost:5000/selected-product-1.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-1.png"
                 },
                 {
                     "id": 12,
-                    "src": "http://localhost:5000/selected-product-2.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-2.png"
                 }
             ]
         },
@@ -278,21 +278,21 @@
             "imgs": [
                 {
                     "id": 11,
-                    "src": "http://localhost:5000/selected-product-3.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-3.png"
                 },
                 {
                     "id": 12,
-                    "src": "http://localhost:5000/selected-product-4.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-4.png"
                 }
             ],
             "thumbs": [
                 {
                     "id": 11,
-                    "src": "http://localhost:5000/selected-product-3.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-3.png"
                 },
                 {
                     "id": 12,
-                    "src": "http://localhost:5000/selected-product-4.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-4.png"
                 }
             ]
         },
@@ -305,21 +305,21 @@
             "imgs": [
                 {
                     "id": 11,
-                    "src": "http://localhost:5000/selected-product-1.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-1.png"
                 },
                 {
                     "id": 12,
-                    "src": "http://localhost:5000/selected-product-3.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-3.png"
                 }
             ],
             "thumbs": [
                 {
                     "id": 11,
-                    "src": "http://localhost:5000/selected-product-1.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-1.png"
                 },
                 {
                     "id": 12,
-                    "src": "http://localhost:5000/selected-product-3.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-3.png"
                 }
             ]
         },
@@ -331,21 +331,21 @@
             "imgs": [
                 {
                     "id": 11,
-                    "src": "http://localhost:5000/selected-product-2.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-2.png"
                 },
                 {
                     "id": 12,
-                    "src": "http://localhost:5000/selected-product-4.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-4.png"
                 }
             ],
             "thumbs": [
                 {
                     "id": 11,
-                    "src": "http://localhost:5000/selected-product-2.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-2.png"
                 },
                 {
                     "id": 12,
-                    "src": "http://localhost:5000/selected-product-4.png"
+                    "src": "https://react-shop-express-api.onrender.com/selected-product-4.png"
                 }
             ]
         }
@@ -353,25 +353,25 @@
     "whyUs": [
         {
             "id": "1",
-            "icon": "http://localhost:5000/Free-Shipping.png",
+            "icon": "https://react-shop-express-api.onrender.com/Free-Shipping.png",
             "title": "Free Shipping",
             "desc": "All purchases over $399 are eligible for free shipping via UPS Pack and Ship."
         },
         {
             "id": "2",
-            "icon": "http://localhost:5000/Payments.png",
+            "icon": "https://react-shop-express-api.onrender.com/Payments.png",
             "title": "Easy Payments",
             "desc": "All payments are processed instantly over a secure payment protocol."
         },
         {
             "id": "3",
-            "icon": "http://localhost:5000/Money.png",
+            "icon": "https://react-shop-express-api.onrender.com/Money.png",
             "title": "Money-Back Guarantee",
             "desc": "If an item arrived damaged or you've changed your mind, you can send it back for a full refund."
         },
         {
             "id": "4",
-            "icon": "http://localhost:5000/quality.png",
+            "icon": "https://react-shop-express-api.onrender.com/quality.png",
             "title": "Finest Quality",
             "desc": "Designed to last, each of our products has been crafted with the finest materials."
         }
