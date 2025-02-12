@@ -8,10 +8,13 @@ const app = express();
 
 // CORS configuration
 const corsOptions = {
-	origin: "https://react-shop-frontend.onrender.com",
-	methods: "GET,POST,PUT,DELETE",
-	allowedHeaders: "Content-Type,Authorization",
-};
+	origin: [
+	  'https://react-shop-frontend.onrender.com',  // frontend on Render
+	  'http://localhost:3000',                      // frontend running locally
+	],
+	methods: 'GET,POST,PUT,DELETE',
+	allowedHeaders: 'Content-Type,Authorization',
+  };
 
 // Default to process.env.PORT or 5000 for local development
 const PORT = process.env.PORT || 5000;
