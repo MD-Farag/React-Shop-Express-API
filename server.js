@@ -6,6 +6,12 @@ import homeProducts from "./routes/homeProducts.js";
 
 const app = express();
 
+// CORS configuration
+const corsOptions = {
+	origin: "https://react-shop-frontend.onrender.com",
+	methods: "GET,POST,PUT,DELETE",
+	allowedHeaders: "Content-Type,Authorization",
+};
 
 // Default to process.env.PORT or 5000 for local development
 const PORT = process.env.PORT || 5000;
@@ -13,7 +19,7 @@ const PORT = process.env.PORT || 5000;
 // Body parser
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
-app.use(cors({ origin: "https://react-shop-frontend.onrender.com/" }));
+app.use(cors(corsOptions));
 
 // Setup static folder
 app.use(express.static("assets"));
